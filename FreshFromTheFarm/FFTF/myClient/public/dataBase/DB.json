@@ -1,0 +1,378 @@
+{
+  "Product": [
+    {
+      "id": "1",
+      "picture": "images/pinkLadyapple.png",
+      "name": "Apple Pink Lady",
+      "price": "13.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "2",
+      "picture": "images/kiwi.png",
+      "name": "Kiwi",
+      "price": "2.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "3",
+      "picture": "images/greenGrapes.png",
+      "name": "Green Grapes",
+      "price": "9.80",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "4",
+      "picture": "images/apple.png",
+      "name": "apple",
+      "price": "3.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "5",
+      "picture": "images/banana.png",
+      "name": "Banana",
+      "price": "5.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "6",
+      "picture": "images/orange.png",
+      "name": "Orange",
+      "price": "4.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "7",
+      "picture": "images/tomato.png",
+      "name": "Tomato",
+      "price": "2.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "8",
+      "picture": "images/cucamber.png",
+      "name": "Cucumber",
+      "price": "3.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "9",
+      "picture": "images/wholeCabage.png",
+      "name": "Purple Cabage",
+      "price": "7.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "10",
+      "picture": "images/wholeWhiteCabage.png",
+      "name": "White Cabbage",
+      "price": "8.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "11",
+      "picture": "images/greenOnion.png",
+      "name": "Green Onion",
+      "price": "5.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "12",
+      "picture": "images/lettuce.png",
+      "name": "lettuce ",
+      "price": "1.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "13",
+      "picture": "images/parsley.png",
+      "name": "Parsley",
+      "price": "3.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "14",
+      "picture": "images/potato.png",
+      "name": "Potatos",
+      "price": "13.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "15",
+      "picture": "images/bazil.png",
+      "name": "basil",
+      "price": "9.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "16",
+      "picture": "images/coriander.png",
+      "name": "Coriander",
+      "price": "7.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "17",
+      "picture": "images/cherryTomatoes.png",
+      "name": "Cherry Tomatoes",
+      "price": "23.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "18",
+      "picture": "images/squash.png",
+      "name": "Squash",
+      "price": "7.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "19",
+      "picture": "images/sweetPotato.png",
+      "name": "sweetPotato",
+      "price": "8.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "20",
+      "picture": "images/redPeper.png",
+      "name": "Red pepper",
+      "price": "3.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "21",
+      "picture": "images/hotPeper.png",
+      "name": "Hot Pepper",
+      "price": "6.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "22",
+      "picture": "images/beats.png",
+      "name": "Beats",
+      "price": "5.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "23",
+      "picture": "images/purpleOnion.png",
+      "name": "Purple Onion",
+      "price": "8.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "24",
+      "picture": "images/cocanut.png",
+      "name": "CocaNut",
+      "price": "6.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "25",
+      "picture": "images/papaya.png",
+      "name": "Papaya",
+      "price": "9.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "26",
+      "picture": "images/nactarin.png",
+      "name": "Nactarin",
+      "price": "4.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "27",
+      "picture": "images/mrlon.png",
+      "name": "MELON",
+      "price": "8.90",
+      "department": "Fruit",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "28",
+      "picture": "images/culiflower.png",
+      "name": "Culiflower",
+      "price": "2.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "29",
+      "picture": "images/mint.png",
+      "name": "Mint",
+      "price": "3.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "30",
+      "picture": "images/butternut.png",
+      "name": "Butternut",
+      "price": "6.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "31",
+      "picture": "images/celeri.png",
+      "name": "Celeri",
+      "price": "5.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "32",
+      "picture": "images/avocado.png",
+      "name": "Avocado",
+      "price": "7.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "33",
+      "picture": "images/dill.png",
+      "name": "Dill",
+      "price": "2.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "34",
+      "picture": "images/mushroom.png",
+      "name": "Mushroom",
+      "price": "3.90",
+      "department": "Vegtables",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "35",
+      "picture": "images/rosmarin.png",
+      "name": "Rosmarin",
+      "price": "6.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1"
+    },
+    {
+      "id": "36",
+      "picture": "images/Sprouts.png",
+      "name": "Sprouts",
+      "price": "5.90",
+      "department": "Refrigerated",
+      "quantity": "0",
+      "totalWeight": "1 "
+    }
+  ],
+  "Users": [
+    {
+      "name": "racheli blass",
+      "id": "322678368",
+      "email": "rachelib1231@gmail.com",
+      "password": "rach0000"
+    },
+    {
+      "name": "elisheva",
+      "id": "328157185",
+      "email": "elisheva1767@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "harry joe",
+      "id": "314017245",
+      "email": "harry@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Sara",
+      "id": "318466349",
+      "email": "sara@gmail.com",
+      "password": "sara1234"
+    },
+    {
+      "name": "אילה",
+      "id": "212315352",
+      "email": "ayalag5273@gmail.com",
+      "password": "111111"
+    },
+    {
+      "name": "ellisheva",
+      "id": "059682377",
+      "email": "elishevawajsberg@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "elisheva wajsberg",
+      "id": "211727516",
+      "email": "elishevawajsberg@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "name": "bracha",
+      "id": "323023622",
+      "email": "brach@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
